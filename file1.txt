@@ -1,2 +1,3 @@
 hello we discuss about merging in file1
 this line is added in another branch
+this is centeral repo linbe
