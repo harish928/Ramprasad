@@ -1,3 +1,0 @@
-
-hello welcome to vi editor today we 
-going to learn commands
